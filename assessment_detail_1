@@ -1,0 +1,169 @@
+{
+  "data": {
+    "assessment_id": "47b94dce-fa7b-4055-aa9e-f2eb3145fe7a",
+    "category": "knowledge",
+    "assessment_name": "iOS - Tugas Lisan Pembelajaran 02",
+    "assessment_type": "task",
+    "assessment_type_text": "Tugas",
+    "is_online": true,
+    "lesson_type": "thematic",
+    "created_at": "2020-07-10T12:00:23.266Z",
+    "updated_at": "2020-07-10T12:13:57.470Z",
+    "exam_id": "c57d9d11-4697-4a5e-b4af-2902e4f09c6a",
+    "exam_type": null,
+    "exam_type_text": null,
+    "exam_is_remedial": false,
+    "start_date": "2020-07-10T18:58:00.000Z",
+    "deadline_date": "2020-07-24T19:58:00.000Z",
+    "duration": 20220,
+    "student_start_exam": null,
+    "student_end_exam": null,
+    "score": null,
+    "score_predicate": null,
+    "supervisor_name": "Rizka Guru Tauladan",
+    "instruction": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ornare quam viverra orci sagittis eu volutpat. Bibendum est ultricies integer quis auctor elit sed vulputate mi. Mattis enim ut tellus elementum sagittis vitae. Auctor eu augue ut lectus. Mattis rhoncus urna neque viverra justo nec ultrices. <strong>Amet consectetur adipiscing elit pellentesque habi</strong>tant morbi tristique senectus. Congue nisi vitae suscipit tellus mauris a diam maecenas. Congue mauris rhoncus aenean vel elit scelerisque mauris. Et malesuada fames ac turpis egestas integer eget aliquet. Pellentesque adipiscing commodo elit at imperdiet dui accumsan sit. Vivamus at augue eget arcu dictum varius duis at. Lectus urna duis convallis convallis tellus id interdum velit. A pellentesque sit amet porttitor eget dolor morbi non. Sed viverra ipsum nunc aliquet bibendum enim facilisis gravida. Nec feugiat in fermentum posuere urna nec. Sollicitudin aliquam ultrices sagittis orci. Mauris a diam maecenas sed enim ut sem viverra.</p><p><br><br data-cke-filler=\"true\"></p><ul><li>Posuere urna nec tincidunt praesent semper.</li><li>Vel eros donec ac odio.</li><li>Vivamus at augue eget arcu dictum varius.</li><li>Ornare aenean euismod elementum nisi quis eleifend.</li></ul><p><br><br data-cke-filler=\"true\"></p><ol><li>Posuere urna nec tincidunt praesent semper.</li><li>Vel eros donec ac odio.</li><li>Vivamus at augue eget arcu dictum varius.</li><li>Ornare aenean euismod elementum nisi quis eleifend.</li></ol><p><br><br data-cke-filler=\"true\"></p><blockquote><p>Pellentesque pulvinar pellentesque habitant morbi tristique.&nbsp;</p></blockquote><p><code>Ipsum dolor sit amet consectetur adipiscing elit ut aliquam purus. Eget felis eget nunc lobortis mattis aliquam faucibus purus.&nbsp;</code></p><p><a href=\"https://www.google.co.id\"><code>www.google.co.id</code></a></p><p><s>Elit scelerisque mauris pellentesque pulvinar</s>.&nbsp;</p><h2>Ante in nibh mauris cursus mattis molestie&nbsp;</h2><h3>a iaculis. Sit amet risus nullam eget felis eget nunc. In ornare quam viverra orci sagittis eu volutpat. Imperdiet sed euismod nisi porta. Malesuada nunc vel risus commodo viverra maecenas. Etiam erat velit scelerisque in dictum non. Duis convallis convallis tellus id interdum velit laoreet.&nbsp;</h3><h4>Quam adipiscing vitae proin sagittis nisl rhoncus mattis rhoncus urna. Senectus et netus et malesuada fames ac turpis. Integer enim neque volutpat ac tincidunt. Sollicitudin ac orci phasellus egestas. Aliquam eleifend mi in nulla posuere sollicitudin aliquam.</h4><p>Dolor magna eget est lorem ipsum dolor sit. Elementum integer enim neque volutpat ac tincidunt vitae. Tincidunt tortor aliquam nulla facilisi cras fermentum odio eu feugiat. Mauris nunc congue nisi vitae suscipit tellus mauris a. Vestibulum rhoncus est pellentesque elit. Morbi tincidunt augue interdum velit. Elit eget gravida cum sociis natoque. Ornare massa eget egestas purus viverra accumsan in nisl. Sagittis id consectetur purus ut faucibus pulvinar. Eget nullam non nisi est sit amet facilisis magna etiam. Dolor purus non enim praesent elementum facilisis leo vel. Semper eget duis at tellus. Scelerisque eleifend donec pretium vulputate sapien nec sagittis aliquam.</p><p><br data-cke-filler=\"true\"></p><p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfrac><mn>2</mn><mn>3</mn></mfrac><msqrt><mn>3</mn></msqrt><mroot><mn>3</mn><mn>2</mn></mroot></math></p>",
+    "include_question": false,
+    "is_started": false,
+    "is_submitted": false,
+    "completion_status": "unstarted",
+    "answer_last_saved_at": null,
+    "subjects": [
+      {
+        "subject_id": "a57cb0d1-14bd-4d79-a77c-a6fc578b9864",
+        "subject_name": "Matematika",
+        "basic_competencies": [
+          {
+            "lable": "3.2",
+            "content": "Mengenal bangun datar dan bangun ruang menggunakan benda-benda yang ada di sekitar rumah, Madrasah, atau tempat bermain.",
+            "indicators": [
+              "Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+              "Massa tincidunt dui ut ornare lectus.",
+              "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+              "Sed do eiusmod tempor incididunt ut labore et."
+            ]
+          },
+          {
+            "lable": "3.1",
+            "content": "Mengenal bilangan asli sampai 99 dengan menggunakan benda-benda yang ada di sekitar rumah, Madrasah, atau tempat bermain",
+            "indicators": [
+              "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+              "Massa tincidunt dui ut ornare lectus.",
+              "Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+            ]
+          }
+        ]
+      }
+    ],
+    "problem_types": [],
+    "attachments": [
+      {
+        "model_asset_id": "b19454d4-30d7-4b61-8dff-b56ee96414f4",
+        "asset_id": "4750567e-eb0b-43b0-85fe-a6b26aa2d462",
+        "url": "https://raw.githubusercontent.com/rinaldysam/sample/master/Sample.3gp",
+        "filename": "Sample.3gp",
+        "type": "video/3gpp",
+        "size": "84104"
+      },
+      {
+        "model_asset_id": "b19454d4-30d7-4b61-8dff-b56ee96414f4",
+        "asset_id": "4750567e-eb0b-43b0-85fe-a6b26aa2d462",
+        "url": "https://raw.githubusercontent.com/rinaldysam/sample/master/Sample.avi",
+        "filename": "Sample.avi",
+        "type": "video/x-msvideo",
+        "size": "84104"
+      },
+      {
+        "model_asset_id": "b19454d4-30d7-4b61-8dff-b56ee96414f4",
+        "asset_id": "4750567e-eb0b-43b0-85fe-a6b26aa2d462",
+        "url": "https://raw.githubusercontent.com/rinaldysam/sample/master/Sample.flv",
+        "filename": "Sample.flv",
+        "type": "video/x-flv",
+        "size": "84104"
+      },
+      {
+        "model_asset_id": "b19454d4-30d7-4b61-8dff-b56ee96414f4",
+        "asset_id": "4750567e-eb0b-43b0-85fe-a6b26aa2d462",
+        "url": "https://raw.githubusercontent.com/rinaldysam/sample/master/Sample.hevc",
+        "filename": "Sample.hevc",
+        "type": "video/ogg",
+        "size": "84104"
+      },
+      {
+        "model_asset_id": "b19454d4-30d7-4b61-8dff-b56ee96414f4",
+        "asset_id": "4750567e-eb0b-43b0-85fe-a6b26aa2d462",
+        "url": "https://raw.githubusercontent.com/rinaldysam/sample/master/Sample.m4v",
+        "filename": "Sample.m4v",
+        "type": "video/x-ms-wmv",
+        "size": "84104"
+      },
+      {
+        "model_asset_id": "b19454d4-30d7-4b61-8dff-b56ee96414f4",
+        "asset_id": "4750567e-eb0b-43b0-85fe-a6b26aa2d462",
+        "url": "https://raw.githubusercontent.com/rinaldysam/sample/master/Sample.mkv",
+        "filename": "Sample.wmkv",
+        "type": "video/webm",
+        "size": "84104"
+      },
+      {
+        "model_asset_id": "b19454d4-30d7-4b61-8dff-b56ee96414f4",
+        "asset_id": "4750567e-eb0b-43b0-85fe-a6b26aa2d462",
+        "url": "https://raw.githubusercontent.com/rinaldysam/sample/master/Sample.mov",
+        "filename": "Sample.mov",
+        "type": "video/3gpp",
+        "size": "84104"
+      },
+      {
+        "model_asset_id": "b19454d4-30d7-4b61-8dff-b56ee96414f4",
+        "asset_id": "4750567e-eb0b-43b0-85fe-a6b26aa2d462",
+        "url": "https://raw.githubusercontent.com/rinaldysam/sample/master/Sample.mp4",
+        "filename": "Sample.mp4",
+        "type": "video/3gpp",
+        "size": "84104"
+      },
+      {
+        "model_asset_id": "b19454d4-30d7-4b61-8dff-b56ee96414f4",
+        "asset_id": "4750567e-eb0b-43b0-85fe-a6b26aa2d462",
+        "url": "https://raw.githubusercontent.com/rinaldysam/sample/master/Sample.mpg",
+        "filename": "Sample.mpg",
+        "type": "video/3gpp",
+        "size": "84104"
+      },
+      {
+        "model_asset_id": "b19454d4-30d7-4b61-8dff-b56ee96414f4",
+        "asset_id": "4750567e-eb0b-43b0-85fe-a6b26aa2d462",
+        "url": "https://raw.githubusercontent.com/rinaldysam/sample/master/Sample.ogv",
+        "filename": "Sample.ogv",
+        "type": "video/3gpp",
+        "size": "84104"
+      },
+      {
+        "model_asset_id": "b19454d4-30d7-4b61-8dff-b56ee96414f4",
+        "asset_id": "4750567e-eb0b-43b0-85fe-a6b26aa2d462",
+        "url": "https://raw.githubusercontent.com/rinaldysam/sample/master/Sample.webm",
+        "filename": "Sample.webm",
+        "type": "video/3gpp",
+        "size": "84104"
+      },
+      {
+        "model_asset_id": "b19454d4-30d7-4b61-8dff-b56ee96414f4",
+        "asset_id": "4750567e-eb0b-43b0-85fe-a6b26aa2d462",
+        "url": "https://raw.githubusercontent.com/rinaldysam/sample/master/Sample.wmv",
+        "filename": "Sample.wmv",
+        "type": "video/3gpp",
+        "size": "84104"
+      }
+    ],
+    "steps": [],
+    "themes": [
+      {
+        "title": "Keluarga",
+        "sub_themes": [
+          {
+            "title": "Kegiatan Keluargaku"
+          }
+        ]
+      }
+    ]
+  },
+  "status_code": 200
+}

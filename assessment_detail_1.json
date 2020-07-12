@@ -85,7 +85,7 @@
         "asset_id": "4750567e-eb0b-43b0-85fe-a6b26aa2d462",
         "url": "https://raw.githubusercontent.com/rinaldysam/sample/master/Sample.hevc",
         "filename": "Sample.hevc",
-        "type": "video/ogg",
+        "type": "application/octet-stream",
         "size": "84104"
       },
       {
@@ -93,15 +93,15 @@
         "asset_id": "4750567e-eb0b-43b0-85fe-a6b26aa2d462",
         "url": "https://raw.githubusercontent.com/rinaldysam/sample/master/Sample.m4v",
         "filename": "Sample.m4v",
-        "type": "video/x-ms-wmv",
+        "type": "video/x-m4v",
         "size": "84104"
       },
       {
         "model_asset_id": "b19454d4-30d7-4b61-8dff-b56ee96414f4",
         "asset_id": "4750567e-eb0b-43b0-85fe-a6b26aa2d462",
         "url": "https://raw.githubusercontent.com/rinaldysam/sample/master/Sample.mkv",
-        "filename": "Sample.wmkv",
-        "type": "video/webm",
+        "filename": "Sample.mkv",
+        "type": "application/octet-stream",
         "size": "84104"
       },
       {
@@ -109,7 +109,7 @@
         "asset_id": "4750567e-eb0b-43b0-85fe-a6b26aa2d462",
         "url": "https://raw.githubusercontent.com/rinaldysam/sample/master/Sample.mov",
         "filename": "Sample.mov",
-        "type": "video/3gpp",
+        "type": "video/quicktime",
         "size": "84104"
       },
       {
@@ -117,7 +117,7 @@
         "asset_id": "4750567e-eb0b-43b0-85fe-a6b26aa2d462",
         "url": "https://raw.githubusercontent.com/rinaldysam/sample/master/Sample.mp4",
         "filename": "Sample.mp4",
-        "type": "video/3gpp",
+        "type": "video/mp4",
         "size": "84104"
       },
       {
@@ -125,7 +125,7 @@
         "asset_id": "4750567e-eb0b-43b0-85fe-a6b26aa2d462",
         "url": "https://raw.githubusercontent.com/rinaldysam/sample/master/Sample.mpg",
         "filename": "Sample.mpg",
-        "type": "video/3gpp",
+        "type": "video/mpeg",
         "size": "84104"
       },
       {
@@ -133,7 +133,7 @@
         "asset_id": "4750567e-eb0b-43b0-85fe-a6b26aa2d462",
         "url": "https://raw.githubusercontent.com/rinaldysam/sample/master/Sample.ogv",
         "filename": "Sample.ogv",
-        "type": "video/3gpp",
+        "type": "application/octet-stream",
         "size": "84104"
       },
       {
@@ -141,7 +141,7 @@
         "asset_id": "4750567e-eb0b-43b0-85fe-a6b26aa2d462",
         "url": "https://raw.githubusercontent.com/rinaldysam/sample/master/Sample.webm",
         "filename": "Sample.webm",
-        "type": "video/3gpp",
+        "type": "video/webm",
         "size": "84104"
       },
       {
@@ -149,7 +149,7 @@
         "asset_id": "4750567e-eb0b-43b0-85fe-a6b26aa2d462",
         "url": "https://raw.githubusercontent.com/rinaldysam/sample/master/Sample.wmv",
         "filename": "Sample.wmv",
-        "type": "video/3gpp",
+        "type": "video/x-ms-wmv",
         "size": "84104"
       }
     ],
